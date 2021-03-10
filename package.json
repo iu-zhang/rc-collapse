@@ -1,5 +1,5 @@
 {
-  "name": "rc-collapse",
+  "name": "@aio/rc-collapse",
   "version": "3.1.0",
   "description": "rc-collapse ui component for react",
   "keywords": [
